@@ -18,7 +18,7 @@ La meta es identificar cuál canal genera mejores resultados en ventas y tomar d
 - Verificación de duplicados y consistencia general del dataset.
 - Ajuste de valores anómalos en `years_as_customer`.
 
-📌 Dataset original: 15.000 registros → Filtrado final: 13.926 registros válidos.
+Dataset original: 15.000 registros → Filtrado final: 13.926 registros válidos.
 ---
 ### 🔹 2. Análisis exploratorio
 - Distribución de clientes por método de venta.
