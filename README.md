@@ -51,11 +51,5 @@ Estos indicadores permiten monitorear el rendimiento en tiempo real y ajustar la
 - `notebook.ipynb` → Análisis completo en Python
 - `New Product Sales Methods analysis.pptx` → Presentación final del proyecto
 ---
-### Sobre mí
 
-###
-Soy **Ingeniera Química** en transición hacia el análisis de datos, con formación en herramientas como Power BI, SQL y Python. Me interesa resolver problemas reales de negocio mediante el análisis, visualización e interpretación de datos.
-
-<sub> [Mi perfil de LinkedIn](https://www.linkedin.com/in/katherineparrag)</sub>
----
 
