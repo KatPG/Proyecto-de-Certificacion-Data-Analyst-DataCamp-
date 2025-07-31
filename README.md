@@ -1,7 +1,7 @@
 # Análisis de Métodos de Venta – Proyecto de Certificación Data Analyst (DataCamp)
 
 ###
-Este proyecto fue desarrollado como parte del examen práctico para la certificación profesional como **Analista de Datos** en **DataCamp**. El objetivo del análisis es evaluar la efectividad de distintos métodos de venta utilizados para lanzar una nueva línea de productos por parte de la empresa ficticia _Pens and Printers.
+Este proyecto fue desarrollado como parte del examen práctico para la certificación profesional como **Analista de Datos** en **DataCamp**. El objetivo del análisis es evaluar la efectividad de distintos métodos de venta utilizados para lanzar una nueva línea de productos por parte de la empresa ficticia Pens and Printers.
 
 ---
 ## Contexto del negocio
