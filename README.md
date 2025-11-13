@@ -44,7 +44,7 @@ Estos indicadores permiten monitorear el rendimiento en tiempo real y ajustar la
 ---
 ## Archivos del repositorio
 - [Ver el Análisis de datos en Python](./notebook.ipynb)
-- [Ver Presentación final del proyecto en PowerPoint](./New%20Product%20Sales%20Methods%20analysis.pptx)
+- [Presentación final del proyecto en PowerPoint](./New%20Product%20Sales%20Methods%20analysis.pptx)
 ---
 
 
