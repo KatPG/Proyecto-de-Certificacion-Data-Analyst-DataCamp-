@@ -43,8 +43,8 @@ Estos indicadores permiten monitorear el rendimiento en tiempo real y ajustar la
   - Mejorar la recolección y estandarización de datos para futuros análisis.
 ---
 ## Archivos del repositorio
-- [Análisis de datos en Python](./notebook.ipynb)
-- [Presentación final del proyecto](./New Product Sales Methods analysis.pptx) → 
+- [Ver el Análisis de datos en Python](./notebook.ipynb)
+- [Ver Presentación final del proyecto en PowerPoint](./New%20Product%20Sales%20Methods%20analysis.pptx)
 ---
 
 
