@@ -42,14 +42,9 @@ Estos indicadores permiten monitorear el rendimiento en tiempo real y ajustar la
   - Implementar los kpis propuestos para monitorear el rendimiento de cada canal en la estrategia de ventas.
   - Mejorar la recolección y estandarización de datos para futuros análisis.
 ---
-## Herramientas utilizadas
-- Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
-- PowerPoint
----
 ## Archivos del repositorio
-- `notebook.ipynb` → Análisis completo en Python
-- `New Product Sales Methods analysis.pptx` → Presentación final del proyecto
+- [Análisis de datos en Python](./notebook.ipynb)
+- [Presentación final del proyecto](./New Product Sales Methods analysis.pptx) → 
 ---
 
 
